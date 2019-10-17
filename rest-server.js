@@ -15,7 +15,7 @@ const db = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
   password : 'mysql',
-  database : 'testdatabas'
+  database : 'CustomTShirtShoppeNY'
   //database : 'ye_olde_custom_tshirt_shoppe'
 });
 // gör om metoderna connect och query till promise-metoder, så vi kan använda async / await

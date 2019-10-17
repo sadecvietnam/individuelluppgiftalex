@@ -1,32 +1,42 @@
 [
   {
-    "firstName": "Jyoti",
-    "lastName": "Ollarenshaw",
+    "name": "Jyoti Ollarenshaw",
     "email": "jollarenshaw0@wikia.com",
-    "password": "EyepxpnYjV"
+    "password": "EyepxpnYjV",
+    "address": "Little Street 1",
+    "postal_code": "123 45",
+    "city": "Smalltown"
   },
   {
-    "firstName": "Chaunce",
-    "lastName": "Vatini",
+    "name": "Chaunce Vatini",
     "email": "cvatini1@studiopress.com",
-    "password": "iSNbZV"
+    "password": "iSNbZV",
+    "address": "Big Street 1",
+    "postal_code": "234 56",
+    "city": "Big town"
   },
   {
-    "firstName": "Maurine",
-    "lastName": "Gerardet",
+    "name": "Maurine Gerardet",
     "email": "mgerardet2@boston.com",
-    "password": "g9m0Yf"
+    "password": "g9m0Yf",
+    "address": "Middle Street 9",
+    "postal_code": "543 21",
+    "city": "Middletown"
   },
   {
-    "firstName": "Harri",
-    "lastName": "Denniss",
+    "name": "Harri Denniss",
     "email": "hdenniss3@twitpic.com",
-    "password": "HJY8wAnQ9"
+    "password": "HJY8wAnQ9",
+    "address": "Hawk Road",
+    "postal_code": "123 45",
+    "city": "Smalltown"
   },
   {
-    "firstName": "Nolie",
-    "lastName": "Fabbri",
+    "name": "Nolie Fabbri",
     "email": "nfabbri4@noaa.gov",
-    "password": "y9Sjfx"
+    "password": "y9Sjfx",
+    "address": "Crodocile Lane",
+    "postal_code": "888 23",
+    "city": "Alligatorville"
   }
 ]

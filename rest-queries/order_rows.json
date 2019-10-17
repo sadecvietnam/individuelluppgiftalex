@@ -1,0 +1,30 @@
+[
+    {
+        "product_id": 1,
+        "quantity": 50,
+        "text": "BATMAN",
+        "image": "1jpg",
+        "OkToShare": 0
+    },
+    {
+        "product_id": 2,
+        "quantity": 20,
+        "text": "HULKEN",
+        "image": "2jpg",
+        "OkToShare": 1
+    },
+    {
+        "product_id": 3,
+        "quantity": 25,
+        "text": "SUPERMAN",
+        "image": "3jpg",
+        "OkToShare": 0
+    },
+    {
+        "product_id": 4,
+        "quantity": 70,
+        "text": "HERO",
+        "image": "4jpg",
+        "OkToShare": 1
+    }
+]
